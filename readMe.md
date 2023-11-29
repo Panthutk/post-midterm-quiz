@@ -1,0 +1,1 @@
+I add insert row and update to the table class that when it run it will add row and update the table when used the following function
